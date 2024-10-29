@@ -1,3 +1,9 @@
+# React Simple SignUp Form
+- Able to input data
+- Shows input error message
+- After submitting the data is viewable in console
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
